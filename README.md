@@ -1,7 +1,7 @@
 # Passive-income-
 
 passive-income/
-├── app/
+├── app/api/update/route.ts
 │   ├── api/
 │   │   └── update/
 │   │       └── route.ts
